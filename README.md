@@ -13,4 +13,5 @@
 - [What's New in RealityKit](sessions/whats_new_in_realitykit.md)
 - [What's New in Swift](sessions/whats_new_in_swift.md)
 - [What's New in SwiftUI](sessions/whats_new_in_swiftui.md)
+- [Why is My App Getting Killed](sessions/why_is_my_app_getting_killed.md)
 - [XCTSkip Your Tests](sessions/xctskip_your_tests.md)
