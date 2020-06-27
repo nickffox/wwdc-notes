@@ -1,5 +1,5 @@
 
-# What's new in SwiftUI
+# What's New in SwiftUI
 
 ## Apps and Scenes
 
