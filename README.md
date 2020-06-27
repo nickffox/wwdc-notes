@@ -5,6 +5,7 @@
 - [Build Complications in SwiftUI](sessions/build_complications_in_swiftui.md)
 - [Build SwiftUI Apps for AppleTV](sessions/build_swiftui_apps_for_appletv.md)
 - [Distribute Binary Frameworks as Swift Packages](sessions/distribute_binary_frameworks_as_swift_packages.md)
+- [Embrace Swift Type Inference](sessions/embrace_swift_type_inference.md)
 - [Explore ARKit 4](sessions/explore_arkit_4.md)
 - [Explore Logging in Swift](sessions/explore_logging_in_swift.md)
 - [Meet Nearby Interaction](sessions/meet_nearby_interaction.md)
